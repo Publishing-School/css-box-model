@@ -1,5 +1,5 @@
 # Zadanie box-model
-[Kliknij tutaj aby rozwiązać zadanie](https://githubbox.com/Publishing-School/html-zadanie-box-model)
+[Kliknij tutaj aby rozwiązać zadanie](https://githubbox.com/Publishing-School/css-box-model)
 
 
 Rozwiązanie
